@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<cs50.h>
+
+int main()
+{
+int n;
+    do{
+        printf("minutes: ");
+        n = GetInt();
+    }
+    
+    
+    printf("bottles: %d", );
+}
